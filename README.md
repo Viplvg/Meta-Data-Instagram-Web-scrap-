@@ -106,5 +106,8 @@ webdriver-manager
 
 Video Demo : https://drive.google.com/file/d/1Fv-UXI0gPA70YD6Dx9XRKPlpKaOQc8KX/view?usp=drive_link
 
+Please note after I logged into my instagram account you have to go to any reel it will reload and then it will start scrolling and capturing the meta data.
+I case of any doubt, contact me or Hitesh.
+
 
 
