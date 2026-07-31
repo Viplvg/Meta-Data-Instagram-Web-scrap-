@@ -90,12 +90,12 @@ webdriver-manager
 
 **10. Running the Notebook**
 
-Start Jupyter:
+1. Start Jupyter:
 
-- jupyter notebook
+- jupyter notebook.
 
-Open:
 
+2. Open:
 - Test3.4.ipynb
 
 
