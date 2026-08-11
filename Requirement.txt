@@ -8,10 +8,10 @@ notebook
 4. Enter captcha manually within 30 seconds. If fail to enter within time limit close the code window, code will stop and retry again
 5. After successfully entering captcha you will see it will start saving 10 links at a time and start scraping 1 by 1. It will store into a csv file with timestamp in the name of the csv file
 
-*# INSTAGRAM LOGIN*
+# INSTAGRAM LOGIN
 USERNAME = "Enter_your_username_here"
 PASSWORD = "Enter_your_password_here"
 
 
-*# Total scraping duration*
+# Total scraping duration
 SCRAPE_DURATION_MINUTES = 30
