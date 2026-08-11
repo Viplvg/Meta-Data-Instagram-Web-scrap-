@@ -90,24 +90,13 @@ webdriver-manager
 
 **10. Running the Notebook**
 
-1. Start Jupyter:
+open python file
 
-- jupyter notebook.
-
-
-2. Open:
-- Test3.4.ipynb
-
-
-
-
-
-
-
-Video Demo : https://drive.google.com/file/d/1Fv-UXI0gPA70YD6Dx9XRKPlpKaOQc8KX/view?usp=drive_link
-
-Please note after I logged into my instagram account you have to go to any reel it will reload and then it will start scrolling and capturing the meta data.
-I case of any doubt, contact me or Hitesh.
+1. Enter you user name and password on the python code itself
+2. Run the code
+3. You will see your login credentials are used to log into instagram on chrome window automatically
+4. Enter captcha manually within 30 seconds. If fail to enter within time limit close the code window, code will stop and retry again
+5. After successfully entering captcha you will see it will start saving 10 links at a time and start scraping 1 by 1. It will store into a csv file with timestamp in the name of the csv file
 
 
 
